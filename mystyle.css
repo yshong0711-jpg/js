@@ -5,6 +5,27 @@ body {
     
 }
 
+h2 {
+    font-size: 28px;
+}
+
+#todoInput {
+    width: 260px;
+    padding: 10px 12px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    display: inline-block;
+}
+#addBtn {
+    padding: 10px 14px;
+    font-size: 15px;
+    background-color: #3b82f6;
+    border: none;
+    border-radius: 8px;
+}
+
+
 li{
     margin: 5px;
 
